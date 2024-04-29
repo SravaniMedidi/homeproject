@@ -1,0 +1,683 @@
+.A img {
+width: 100%;
+height: 730px;
+position: absolute;
+}
+.B ul{
+    position: relative;
+   
+}
+.B{
+    position: fixed;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.527);
+    
+}
+.B2 li a{
+    text-decoration: none;
+}
+.B1{
+    margin-top: 23px;
+    color: white;
+    font-size: 25px;
+    margin-left: 30px;
+
+}
+
+.B2{
+    margin-left: 350px;
+    margin-top: 23px;
+    color: white;
+    font-size: 20px;
+}
+.B3{
+    margin-left: 80px;
+    margin-top: 23px;
+    color: white;
+    font-size: 20px;
+}
+.B4{
+    margin-left: 80px;
+    margin-top: 23px;
+    color: white;
+    font-size: 20px;
+}
+.B5{
+    margin-left: 80px;
+    margin-top: 23px;
+    color: white;
+    font-size: 20px;
+}
+.B6{
+    margin-left: 80px;
+    margin-top: 23px;
+    color: white;
+    font-size: 20px;
+}
+.c{
+    position: relative;
+    top: 165px;
+}
+.c {
+    color: white;
+
+}
+.c h1{
+    font-size: 50px;
+}
+.c{
+     font-size: 35px;
+}
+.D{
+    height: 55px;
+    width: 105px;
+    position: relative;
+    top: 185px; 
+    border: 2px solid transparent;
+    margin-left: 700px;
+    background-color: rgb(70, 70, 166);
+    margin-top: 125px;
+}
+.d1{
+    color: white;
+    margin-left: 30px;
+    margin-top: 3px;
+   font-size:55px;
+
+}
+.part2{
+    margin-left: 110px;
+    width: 85%;
+}
+.E{
+    margin-top: 400px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+}
+.E h1{
+     color: blue;
+}
+.E {
+    font-size: 20px;
+    
+}
+.E a{
+    text-decoration: none;
+}
+/* .F{
+    height: 10px;
+    width: 10px;
+}
+.F img{
+    margin-top: 80px;
+    height: 60px;
+    width: 80px;
+    
+}
+.f1 h1{
+    color: blue;
+    margin-left: 90px;
+    margin-top: 85px;
+}
+.f1{
+    font-size: 18px;
+}
+.f1 p{
+    margin-left: 90px;
+} */
+/* .G img{
+    height: 60px;
+    width: 80px;
+}
+.G img{
+    float: left;
+}
+.g1{
+    height: 10px;
+} */
+.gimg{
+    float: left;
+}
+/* .FM{
+    float: left;
+}
+.Gmain{
+    margin-top: 95px;
+    margin-left: 550px;
+}
+.gpara {
+    margin-top: 55px;
+}
+.gpara h1{
+    color: blue;
+}
+.gpara a{
+    text-decoration: none;
+}
+.finger{
+    height: 300px;
+    width:600px;
+    border: 2px solid blue;
+    margin-top: 165px;
+}
+.fingpara{
+    margin-left: 105px;
+}
+.finger1{
+    float: left;
+    margin-top: 15px;
+}
+.fingpara h1{
+    color: blue;
+}
+.fingpara{
+    font-size: 20px;
+}
+.social{
+    height: 300px;
+    width:600px;
+    border: 2px solid blue;
+    margin-top: 165px;
+}
+.socialpara{
+    margin-left: 105px;
+}
+.social1{
+    float: left;
+    margin-top: 15px;
+}
+.socialpara h1{
+    color: blue;
+}
+.socialpara{
+    font-size: 20px;
+}
+.social1 img{
+    height: 80px;
+}
+.social{
+    float: left;
+} */
+.aaa{
+    margin-top: 100px;
+    float: left;
+}
+.aaa1 img{
+    height: 50px;
+    width: 80px;
+    float: left;
+    margin-top: 15px;
+}
+.aaa2 h1{
+    margin-left: 100px;
+    color: blue;   
+}
+.aaa3{
+    font-size: 20px;
+    margin-left: 100px;
+}
+.bbb{
+    margin-top: 140px;
+    margin-left: 600px;
+    
+
+}
+.bbb1 img{
+    height: 80px;
+    width: 90px;
+    float: left;
+    
+}
+.bbb2 h1{
+    margin-left: 100px;
+    color: blue;   
+}
+.bbb3{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.ccc{
+    margin-top: 140px;
+    /* float: left; */
+    margin-left: 11px;
+    
+     
+}
+.ccc1 img{
+    height: 100px;
+    width: 80px;
+    float: left;
+    
+}
+.ccc2 h1{
+    margin-left: 100px;
+    color: blue;
+    
+}
+.ccc3{
+    font-size: 20px;
+    margin-left: 100px;
+
+}
+ .ddd{
+    margin-top: -183px;
+    margin-left: 600px;
+
+
+}
+.ddd1 img{
+    height: 100px;
+    width: 80px;
+    float: left;
+    
+}
+.ddd2 h1{
+    margin-left: 100px;
+    color: blue;
+    
+}
+.ddd3{
+    font-size: 20px;
+    margin-left: 100px;
+} 
+ 
+/* .E1
+{
+    width: 500px;
+    height: 360px;
+    border: 2px solid black;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.E2
+{
+    width: 500px;
+    height: 360px;
+    border: 2px solid black;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.E3
+{
+    width: 500px;
+    height: 360px;
+    border: 2px solid black;
+    float: left;
+    margin-left: 50px;
+    margin-top: 116px;
+}
+.E4
+{
+    width: 500px;
+    height: 360px;
+    border: 2px solid black;
+    float: left;
+    margin-top: 115px;
+    margin-left: 50px;
+} */
+.button1{
+    height: 46px;
+    width: 148px;
+    border: 2px solid transparent;
+    margin-left: 114px;
+    margin-top: 78px;
+    align-items: center;
+    background-color: navy;
+    color: white;
+    font-size: 24px;
+
+}
+.button2{
+    height: 46px;
+    width: 102px;
+    border: 2px solid transparent;
+    margin-left: 707px;
+    margin-top: -47px;
+    align-items: center;
+    background-color: navy;
+    font-size: 24px;
+    color: white;
+}
+.eee img{
+    margin-top: 20px;
+    height: 700px;
+    width: 100%;
+    position: absolute;
+}
+/* .Mfff{
+    position: relative;
+} */
+/* .ggg p
+{
+    margin-top: 50px;
+} */
+.fff p{
+    position: absolute;
+    padding-top: 0;
+    text-align: center;
+    margin-left: 647px;
+    color: white;
+    font-size: 37px;
+}
+.ggg{
+    position: relative;
+    padding-top: 90px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.hhh img{
+    margin-top: 600px;
+    position: absolute;
+}
+.hhh img{
+    position: relative;
+    margin-top: 85px;
+    margin-left: 339px;
+    border-radius: 50%;
+
+}
+.hhhp p{
+    margin-top: 33px;
+    position: relative;
+    margin-left: 282px;
+    color: white;
+    float: left;
+
+}
+.Mhhh{
+    float: left;
+}
+.iii img{
+    position: relative;
+    margin-top: 85px;
+    margin-left: 147px;
+    border-radius: 50%;
+}
+.iii p{
+    margin-top: -16px;
+    position: relative;
+    margin-left: 554px;
+    color: white;
+    padding-left: 50px;
+    top: 50px;
+}
+.jjj img{
+    position: relative;
+    margin-top: 85px;
+    margin-left: 147px;
+    border-radius: 50%;
+}
+.jjj p{
+    margin-top: -16px;
+    position: relative;
+    margin-left: 554px;
+    color: white;
+    padding-left: 50px;
+    top: 50px;
+}
+.Mjjj{
+     margin-left: 341px;
+     margin-top: -292px;
+}
+.jjj img{
+    margin-left: 458px;
+}
+.name1{
+    margin-top: 50px;
+    position: relative;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    margin-left: -145px;
+
+}
+.name2{
+    margin-top: 50px;
+    position: relative;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    margin-left: 160px;
+}
+.name3{
+    margin-top: 83px;
+    position: relative;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1030px;
+}
+.kkk p{
+      margin-top: 243px;
+      text-align: center;
+      font-size: 38px;
+      color: blueviolet;
+}
+.lll p{
+      margin-top: 20px;
+      text-align: center;
+      font-size: 17px;
+}
+.mmm img{
+    margin-top: 58px;
+    margin-left: 76px;
+    float: left;
+}
+.nnn img{
+    margin-top: 58px;
+    margin-left: 33px;
+    float: left;
+}
+.ooo img{
+    margin-top: 58px;
+    margin-left: 30px;
+    float: left;
+
+}
+.ppp img{
+    margin-top: 58px;
+    margin-left: 30px;
+    float: left;
+
+}
+.qqq img{
+    margin-top: 58px;
+    margin-left: 30px;
+}
+.part4{
+    margin-left: 25px;
+}
+.part6 img{
+     height: 800px;
+     width: 100%;
+     margin-top: 195px;
+     position: absolute;
+}
+.rrr p{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 263px;
+    font-size: 18px;
+}
+.rrr h1{
+    position: relative;
+    text-align: center;
+    color: white;
+    top: 244px;
+    font-weight: lighter;
+
+}
+.form1{
+    position: relative;
+    /* color: white; */
+    top: 300px;
+    margin-left: 50px;
+    border: none;
+    
+    
+}
+.form1 input{
+    height: 40px;
+    width: 500px;
+    border-radius: 5px;
+    border: none;
+    
+}
+.form2{
+    position: relative;
+    /* color: white; */
+    top: 320px;
+    margin-left: 50px;
+    border-radius: 5px;
+    /* background-color: transparent; */
+    border: none;
+    
+    
+}
+.form2 input{
+    height: 40px;
+    width: 500px;
+    /* background-color: transparent; */
+    border: none;
+    
+}
+textarea{
+    position: relative;
+    /* color: white; */
+    top: 340px;
+    margin-left: 50px;
+    /* height: 40px; */
+    width: 500px;
+    height:230px ;
+    border-radius: 5px;
+    /* background-color: transparent; */
+    border: none;
+    
+    
+}
+ /* form{
+    margin-left: 60px;
+    margin-top: 50px;
+    float: left;
+
+}  */
+
+/* .formnew{
+    margin-left: 60px;
+    margin-top: 50px;
+    float: left;
+
+}  */
+
+form{
+    margin-top: 150px;
+    margin-left: 80px;
+}
+
+
+.part7{
+    position: relative;
+    /* top: 200px; */
+    margin-top: -180px;
+    color: white;
+    float: right;
+    margin-right: 300px;
+    
+}
+.Mchat{
+    display: flex;
+}
+.Mchat1{
+    margin-top:147px;
+    margin-left: 92px;
+    font-size: 37px;
+}
+.chatp{
+    margin-top: 155px;
+    font-size: 21px;
+    margin-left: 24px;
+}
+.Mmail{
+    display: flex;
+    margin-top: -115px;
+}
+.Mmail1{
+    margin-top:147px;
+    margin-left: 92px;
+    font-size: 37px;
+}
+.mailp{
+    margin-top: 155px;
+    font-size: 21px;
+    margin-left: 24px;
+}
+.Mlocation{
+    display: flex;
+    margin-top: -115px;
+}
+.location1{
+    margin-top:147px;
+    margin-left: 92px;
+    font-size: 37px;
+}
+.locationp{
+    margin-top: 155px;
+    font-size: 21px;
+    margin-left: 24px;
+}
+.Mcall{
+    display: flex;
+    margin-top: -115px;
+}
+.call1{
+    margin-top:147px;
+    margin-left: 92px;
+    font-size: 37px;
+}
+.callp{
+    margin-top: 155px;
+    font-size: 21px;
+    margin-left: 24px;
+}
+button{
+    height: 35px;
+    width: 246px;
+    border: 2px solid blue;
+    color: white;
+    background-color: blue;
+    position: relative;
+    /* margin-top: 324px; */
+    margin-left: 115px;
+    margin-top: 50px;
+}
+
+.mm{
+    display:none;
+}
+
+.mmmm:hover .mm{
+    display: block;
+    position: relative;
+    top: 0;
+}
+
+
+/* .nnn div{
+    display: none;
+}
+
+.ooo div{
+    display: none;
+}
+
+.ppp div{
+    display: none;
+}
+
+.qqq div{
+    display: none;
+} */
